@@ -16,3 +16,6 @@ COSE474: Deep Learning @ Korea University
 4. [Semantic Segmentation](semantic_segmentation_tutorial.ipynb)
 5. [Adversarial Examples](adversarial_tutorial.ipynb)
 6. [Style Transfer with CycleGAN](cycleGAN_style_transfer.ipynb)
+
+## Reference
+1. [Introduction to Colab](https://youtu.be/inN8seMm7UI)
