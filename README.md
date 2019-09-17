@@ -10,7 +10,7 @@ COSE474: Deep Learning @ Korea University
 * Sihyeon Kim
 
 ## Contents
-1. [Introduction to Neural Networks using PyTorch (2-layer NN, CIFAR10)](0_Introduction_to_Neural_Networks_using_PyTorch.ipynb)
+1. [Introduction to Neural Networks using PyTorch (2-layer NN, CIFAR10)](1_Introduction_to_Neural_Networks_using_PyTorch.ipynb)
 2. [MNIST Tutorial (CNN)](2_MNIST_Tutorial%20(CNN).ipynb)
 3. [Object Detection and Multiple Object Tracking(MOT)](MOT_tutorial.ipynb)
 4. [Semantic Segmentation](4_Semantic_Segmentation.ipynb)
